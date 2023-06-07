@@ -1,0 +1,41 @@
+*Weekly challenge 3*
+
+Question 1:
+Fill in the blank: In spreadsheets, data analysts begin _____ with an equal sign (=).
+Ans:
+formulas
+
+Question 2:
+Fill in the blank: The labels that describe the type of data contained in each column of a spreadsheet are called  _____.
+Ans:
+attributes 
+
+Question 3:
+A data analyst could use spreadsheets to achieve which of the following tasks?
+Ans:
+Predict next quarter’s sales 
+
+Question 4:
+Formulas are created by the user, whereas functions are preset commands in spreadsheets.
+Ans:
+True
+
+Question 5:
+In the function =MAX(A1:A12), what does A1:A12 represent?
+Ans:
+The range
+
+Question 6:
+What is the correct spreadsheet formula for multiplying cell H2 times cell H5?
+Ans:
+=H2*H5
+
+Question 7:
+To avoid bias when collecting data, a data analyst should keep what in mind?
+Ans:
+Context
+
+Question 8:
+Fill in the blank: A data analyst considers which organization created, collected, or funded a dataset in order to understand its _____.
+Ans: 
+context

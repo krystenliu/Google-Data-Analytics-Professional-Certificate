@@ -1,0 +1,44 @@
+*Weekly challenge 4*
+
+Question 1:
+The data collected for an analysis project has just been cleaned. 
+What are the next steps for a data analyst? Select all that apply.
+Ans:
+Verification
+Reporting
+
+Question 2:
+What is the first step in the verification process?
+Ans:
+Compare cleaned data with the original, uncleaned dataset and compare it to what is there now
+
+Question 3:
+Which function removes leading, trailing, and repeated spaces in data?
+Ans:
+TRIM
+
+Question 4:
+What tool can a data analyst use to figure out how many identical errors occur in a dataset?
+Ans:
+COUNTA
+
+Question 5:
+Fill in the blank: A data analyst uses the CASE statement to consider one or more _____, then returns a value.
+Ans:
+conditions
+
+Question 6:
+What is the process of tracking changes, additions, deletions, and errors during data cleaning? 
+Ans:
+Documentation
+
+Question 7:
+At what point during the analysis process does a data analyst use a changelog?
+Ans:
+While cleaning the data
+
+Question 8:
+A data analyst makes changes to SQL queries and uses these comments to create a changelog. 
+This involves specifying the changes they made and why they made them. 
+Ans:
+True

@@ -1,0 +1,54 @@
+*Weekly challenge 3*
+
+Question 1:
+Relational databases contain a series of tables connected to form relationships. Which two types of fields exist in two connected tables? 
+Ans:
+Primary and foreign keys
+
+Question 2:
+Metadata is data about data. What kinds of information can metadata offer about a particular dataset? Select all that apply.
+Ans:
+What kinds of data it contains
+How to combine the data with another dataset
+If the data is clean and reliable
+
+Question 3:
+Structural metadata indicates how a piece of data is organized and whether it’s part of one or more than one data collection. 
+Ans:
+True
+
+Question 4:
+What is the process that data analysts use to ensure the formal management of their company’s data assets?
+Ans:
+Data governance
+
+Question 5:
+In what circumstance might a data analyst choose not to use external data in their analysis?
+Ans:
+The data cannot be confirmed to be reliable
+
+Question 6:
+A data analyst reviews a national database of movie theater showings. They want to find the first movies shown in San Francisco in 2001. 
+How can they organize the data to return the first 10 movies shown at the top of their list? Select all that apply.
+Ans:
+Filter out showings outside of San Francisco
+Filter out showings not in 2001
+Sort by date in ascending order
+
+Question 7:
+When writing a query, it's necessary for the name of the dataset to be inside two backticks in order for the query to run properly.
+Ans:
+False
+
+Question 8:
+You are working with a database table that contains customer data. 
+The city column lists the city where each customer is located. You want to find out which customers are located in Berlin.
+
+You write the SQL query below. Add a WHERE clause that will return only customers located in Berlin.
+SELECT
+*
+FROM
+customer
+
+Ans:
+1

@@ -1,0 +1,55 @@
+*Weekly challenge 1*
+
+Question 1:
+Which of the following conditions are necessary to ensure data integrity? Select all that apply.
+Ans:
+Completeness
+Accuracy
+
+Question 2:
+A financial analyst imports a dataset to their computer from a storage device. 
+As it’s being imported, the connection is interrupted, which compromises the data. Which of the following processes caused the compromise?
+Ans:
+Data transfer
+
+Question 3:
+A data analyst is given a dataset for analysis. It includes data about the total population of every country in the previous 20 years. 
+Based on the available data, an analyst would be able to determine the reasons behind a certain country's population increase from 2016 to 2017.
+Ans:
+False
+
+Question 4:
+A data analyst is given a dataset for analysis. To use the template for this dataset, click the link below and select “Use Template.” 
+Link to template: June 2014 Invoices
+OR
+If you don’t have a Google account, download the CSV file directly from the attachment below.
+
+Rows 10 and 11 contain duplicate data.
+Ans:
+False
+
+Question 5:
+A data analyst at a nonprofit organization is working with a dataset about a summer fundraiser. 
+Although they have a lot of useful data by the end of the month, they recognize that the data is insufficient. 
+So, they decide to wait until the end of the season to begin working with the dataset. 
+Which type of insufficient data does this example describe?
+Ans:
+Data that keeps updating
+
+Question 6:
+In the data analysis process, how does a sample relate to a population?
+Ans:
+A sample is a part of a population that is representative of the population. 
+
+Question 7:
+A restaurant wants to gather data about a new dish by giving out free samples and asking for feedback. 
+Who should the restaurant give samples to?
+Ans:
+All diners 
+
+Question 8:
+Data and business objectives might not align for a number of reasons. 
+Which of the following issues can prevent alignment? Select all that apply.
+Ans:
+Sampling bias
+Insufficient data 

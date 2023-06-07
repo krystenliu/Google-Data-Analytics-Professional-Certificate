@@ -1,0 +1,47 @@
+*Weekly challenge 1*
+
+Question 1:
+A data analyst at a book publisher is working on an urgent report for executives. 
+They are using only historical data. What is the most likely reason for choosing to analyze only historical data?
+Ans:
+The data has a very short time frame
+
+Question 2:
+Continuous data is measured and has a limited number of values.
+Ans:
+False
+
+Question 3:
+Which of the following questions collect nominal qualitative data? Select all that apply.
+Ans:
+Did anyone recommend our restaurant to you today?
+Is this your first time dining at this restaurant?
+Have you heard of our frequent diner program?
+
+Question 4:
+Internal data is more reliable because it’s clean.
+Ans:
+False
+
+Question 5:
+Structured data is likely to be found in which of the following formats? Select all that apply.
+Ans:
+Spreadsheet
+Table
+
+Question 6:
+Fill in the blank: A Boolean data type can have _____ possible values.
+Ans:
+two
+
+Question 7:
+The following is a selection from a spreadsheet: 
+What kind of data format does it contain?
+Ans:
+Long
+
+Question 8:
+A data analyst is working in a spreadsheet application. 
+They use Save As to change the file type from .XLS to .CSV. This is an example of a data transformation.
+Ans:
+True

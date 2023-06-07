@@ -1,0 +1,148 @@
+*Weekly challenge 4*
+
+Question 1:
+Question 1
+A data analyst is working with a spreadsheet from a furniture company. 
+To use the template for this spreadsheet, click the link below and select “Use Template.” 
+
+Link to template: Sample Transaction Table
+Or, if you don’t have a Google account, download the file directly from the attachment below.
+
+The analyst inputs a function to find the number of product prices that are less than $150.00. Which formula will return that result?
+=COUNTIF(G2:G30, “<150”)
+=COUNTIF(G2:G30, “>=150”)
+=SUMIF(G2:G30, “>150”)
+=SUMIF(G2:G30, “<150”)
+
+Ans: 
+=COUNTIF(G2:G30, “<150”)
+
+Question 2:
+Fill in the blank: When you build a SUMIF or COUNTIF formula, the first part of the formula in parentheses is the _____.
+
+criteria
+condition
+operator
+range 
+
+Ans:
+range
+
+Question 3:
+
+The following is a formula with the SUMPRODUCT function: 
+=SUMPRODUCT(A2:A10,B2:B10). 
+It will add the values from the first range (A2:A10) to the values from the second range (B2:B10). Then, the sums will be multiplied. 
+
+True
+False
+
+Ans:
+False
+
+Question 4:
+You create a pivot table in a spreadsheet containing movie data. 
+To use the template for this spreadsheet, click the link below and select “Use Template.” 
+
+Link to template: Movie Data Project.
+Or, if you don’t have a Google account, download the file directly from the attachment below.
+
+In order to find out how much box office revenue each genre earned, 
+you would use the SUM function in the Values menu to summarize the data. 
+
+True
+False
+
+Ans:
+True
+
+Question 5:
+Which part of the following SQL query enables an analyst to control the order of the calculations?
+
+FROM Survey_1
+(Yes_Responses + No_Responses) 
+Yes_responses 
+AS Responses_Per_Survey
+
+Ans:
+(Yes_Responses + No_Responses) 
+
+Question 6:
+You are working with a database table that contains data about music. 
+The table includes columns for track_id, track_name (name of the music track), composer, and bytes (digital storage size of the music track). 
+You are only interested in data about the classical musician Johann Sebastian Bach. You want to know the size of each Bach track in kilobytes. 
+You decide to divide bytes by 1000 to get the size in kilobytes, and use the AS command to store the result in a new column called kilobytes. 
+
+Add a statement to your SQL query that calculates the size in kilobytes for each track and stores it in a new column as kilobytes.
+
+NOTE: The three dots (...) indicate where to add the statement.
+
+SELECT
+track_id,
+track_name,
+composer,
+bytes,
+bytes / 1000 AS kilobytes
+FROM
+track
+WHERE
+composer = "Johann Sebastian Bach"
+
+What is the size in kilobytes of the track with Id number 3407?
+5064
+3192
+4744
+2315
+
+Ans:
+3192
+
+Question 7:
+You are working with a database table that contains invoice data. 
+The table includes columns for invoice_id and quantity (the number of purchases included in each line item of an invoice). 
+Each invoice contains multiple line items. 
+You want to find out the total number of purchases for each invoice, and store the result in a new column as total_purchases. 
+
+You write the SQL query below. Add a GROUP BY clause that will group the data by invoice Id number.
+SELECT
+invoice_id,
+SUM(quantity) AS total_purchases
+FROM
+invoice_item
+GROUP BY
+invoice_id
+
+9
+4
+2
+14
+
+Ans:
+9
+
+Question 8:
+You are working with a database table that contains invoice data. 
+The table includes columns for billing_country and total. 
+You want to know the average total price for the invoices billed to the country of India. 
+You decide to use the AVG function to find the average total, and use the AS command to store the result in a new column called average_total. 
+
+Add a statement to your SQL query that calculates the average total and stores it in a new column as average_total.
+
+NOTE: The three dots (...) indicate where to add the statement.
+SELECT
+billing_country,
+AVG(total) AS average_total
+FROM
+invoice
+WHERE
+billing_country = "India"
+
+What is the average total for India?
+
+5.37
+5.78
+5.64
+6.02
+
+Ans:
+5.78

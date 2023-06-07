@@ -1,0 +1,130 @@
+1. Foundations: Data, Data, Everywhere
+Foundations
+What you will learn?
+-Real-life roles and responsibilities of a junior data analyst
+-How businesses transform data into actionable insights
+-Spreadsheet basics
+-Database and query basics
+-Data visualization basics
+Skill sets you will build:
+-Using data in everyday life
+-Thinking analytically
+-Applying tools from the data analytics toolkit
+-Showing trends and patterns with data visualizations
+-Ensuring your data analysis is fair
+
+Week 1:
+Ask -> Prepare -> Process -> Analyze -> Share -> Act
+1. The analysts asked questions to define both the issue to be solved and what would equal a successful result. 
+2. Next, they prepared by building a timeline and collecting data with employee surveys that were designed to be inclusive.
+3. They processed the data by cleaning it to make sure it was complete, correct, relevant, and free of errors and outliers. 
+4. They analyzed the clean employee survey data. 
+5. Then the analysts shared their findings and recommendations with team leaders. 
+6. Afterward, leadership acted on the results and focused on improving key areas.
+Ask questions and define the problem.
+Prepare data by collecting and storing the information.
+Process data by cleaning and checking the information.
+Analyze data to find patterns, relationships, and trends.
+Share data with your audience.
+Act on the data and use the analysis results.
+
+data analysis life cycle
+Ask: Business Challenge/Objective/Question
+Prepare: Data generation, collection, storage, and data management
+Process: Data cleaning/data integrity
+Analyze: Data exploration, visualization, and analysis
+Share: Communicating and interpreting results 
+Act:  Putting your insights to work to solve the problem
+
+Week 2: NIL
+Week 3:
+data life cycle
+Plan: Decide what kind of data is needed, how it will be managed, and who will be responsible 
+          for it.
+Capture: Collect or bring in data from a variety of different sources.
+Manage: Care for and maintain the data. This includes determining how and where it is stored 
+                 and the tools used to do so.
+Analyze: Use the data to solve problems, make decisions, and support business goals.
+Archive: Keep relevant data stored for long-term and future reference.
+Destroy: Remove data from storage and delete any shared copies of the data.
+
+Key data analyst tools
+Spreadsheets
+-Microsoft Excel
+-Google Sheets
+Databases and query languages
+-MySQL
+-Microsoft SQL Server
+-BigQuery
+Visualization tools
+-Tableau's simple drag-and-drop feature lets users create interactive graphs in dashboards and  
+worksheets;
+-Looker communicates directly with a database, allowing you to connect your data right to the visual tool you choose
+
+
+
+
+
+
+
+
+
+
+
+Week 4:
+Spreadsheets: 
+Attribute: A characteristic or quality of data used to label a column in a table.
+(Column names / column labels / headers)
+Observation: All of the attributes for something contained in a row of a data table.
+Formula: A set of instructions that performs a specific action using the data in a spreadsheet.
+SQL: It is a supersize spreadsheet (store, organize, analyze)
+Query: A request for data or information from a database
+SQL examples:
+  
+  
+
+-	Add comment 
+(/* …… */) (--……)
+
+-	Assigning a new name
+ 
+
+
+
+Data visualization: graphical representation of data
+
+Example: 
+The company helps small clothing stores manage their inventory, and sales are booming. One day, you learn that your company is getting ready to make a major update to its website. To guide decisions for the website update, you’re asked to analyze data from the existing website and sales records.
+Step 1: Explore the data for patterns
+- ask the data owner for access to the current sales records and website analytics reports.
+   eg: how customers behave on the company’s existing website?
+         basic information about who visited?
+         who bought from the company?
+         how much they bought?
+ Step 2: Plan your visuals
+- refine your data
+- present the result of your data
+
+1) Show sales numbers over time
+2) Connect sales to location
+3) Show the relationship between sales and website use
+4) Show which customers fuel growth
+Step 3: Create your visuals
+ 
+Data visualization toolkit:
+Spreadsheets (Microsoft Excel or Google Sheets)
+Visualization software (Tableau)
+Programming language (R with RStudio)
+
+Week 5:
+What is data analytical? How they help the company business?
+Ans: Data analytics helps businesses make better decisions, but getting there is a process. It begins with analyzing a business problem, identifying data about that problem, and then using data analysis to arrive at an answer. Sometimes you get an answer that solves your business problem, but it’s often just as likely that you discover other questions to investigate further.
+Decoding the job description
+Business analyst — analyzes data to help businesses improve processes, products, or services
+Data analytics consultant — analyzes the systems and models for using data
+Data engineer — prepares and integrates data from different sources for analytical use
+Data scientist — uses expert skills in technology and social science to find trends through data 
+                            analysis
+Data specialist — organizes or converts data for use in databases or software systems
+Operations analyst — analyzes data to assess the performance of business operations and workflows
+ 

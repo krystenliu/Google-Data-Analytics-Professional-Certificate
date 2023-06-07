@@ -1,0 +1,101 @@
+*Course challenge*
+
+Scenario 1, questions 1-5
+
+You’ve been working at a data analytics consulting company for the past six months. Your team helps restaurants use their data to better understand customer preferences and identify opportunities to become more profitable. 
+To do this, your team analyzes customer feedback to improve restaurant performance. You use data to help restaurants make better staffing decisions and drive customer loyalty. Your analysis can even track the number of times a customer requests a new dish or ingredient in order to revise restaurant menus. 
+Currently, you’re working with a vegetarian sandwich restaurant called Garden. The owner wants to make food deliveries more efficient and profitable. To accomplish this goal, your team will use delivery data to better understand when orders leave Garden, when they get to the customer, and overall customer satisfaction with the orders.
+Before project kickoff, you attend a discovery session with the vice president of customer experience at Garden. He shares information to help your team better understand the business and project objectives. As a follow-up, he sends you an email with datasets. 
+
+Click below to read the email:
+
+Question 1:
+Reviewing the data enables you to describe how you will use it to achieve your client’s goals. 
+First, you notice that all of the data was collected by Garden employees using their own resources. What type of data does this describe?
+Ans:
+First-party data
+
+Question 2:
+Next, you review the customer satisfaction survey data. To use the template for the customer satisfaction survey data, click the link below and select “Use Template.” 
+Link to template: Customer Satisfaction Survey data
+OR
+If you don’t have a Google account, download the CSV file directly from the attachment below.
+
+The question in column E asks, “Was your order accurate? Please respond yes or no.” What kind of data is this?
+Ans:
+Boolean data 
+
+Question 3:
+Scenario 1 continued
+
+Now, you review the data on delivery times and the distance of customers from the restaurant.
+To use the template for the dataset, click the link below and select “Use Template.” 
+Link to template: Delivery Times/Distance
+OR
+If you don’t have a Google account, download the CSV file directly from the attachment below.
+
+The data in column D is an example of nominal data.
+Ans: 
+False
+
+Question 4:
+The next thing you review is the file containing pictures of sandwich deliveries over a period of 30 days. 
+This is unstructured data, which means what?
+Ans:
+It’s not organized in an easily identifiable manner.
+
+Question 5:
+Now that you’re familiar with the data, you want to build trust with the team at Garden. 
+What data-security measures do you employ? Select all that apply.
+Ans:
+Assign user permissions for files
+Add passwords to files
+
+Scenario 2, questions 6-10
+
+You’ve completed this program and are interviewing for a junior data scientist position at a company called Sewati Financial Services. 
+Click below to review the job description:
+
+So far, you’ve successfully completed the first interview with a recruiter. They arrange your second interview with the team at Sewati Financial Services. 
+Click below to read the email from the human resources director:
+
+You arrive 15 minutes early for your interview. Soon, you are escorted into a conference room, where you meet Kai Harvey, the senior manager of strategy. 
+After welcoming you, he begins the behavioral interview. 
+
+Question 6:
+Consider and respond to the following question. Select all that apply.
+Our data analytics team often surveys clients to get their feedback. 
+If you were on the team, how would you ensure the results do not favor a particular person, group of people, or thing?
+Ans: 
+Give participants enough time to answer each survey question.
+Ensure the survey sample represents the population as a whole.
+Make sure the wording of the survey question does not encourage a specific response from participants. 
+
+Question 7:
+Consider and respond to the following question. Select all that apply.
+Our data analytics team often uses both internal and external data. Describe the difference between the two.
+Ans: 
+Internal data is often generated from within the company. External data is generated outside the organization.
+Internal data came from a company’s own systems. External data comes from outside the organization. 
+
+Question 8:
+Consider and respond to the following question. Select all that apply.
+Our analysts often work within the same spreadsheet, but for different purposes. What tools would you use in such a situation?
+Ans:
+Freeze the header rows
+Filter to show only the data that meets a specific criteria 
+Sort the data to make it easier to understand, analyze, and visualize
+
+Question 9:
+Next, your interviewer wants to better understand your knowledge of basic SQL commands. 
+He asks: How would you write a query that retrieves only data about people who work in Boise from the Clients table in our database?
+Ans:
+SELECT *
+FROM Clients
+WHERE work_location = "Boise"
+
+Question 10:
+For your final question, your interviewer explains that Sewati Financial Services needs its clients’ trust, and this is an important responsibility for the data analytics team. 
+He asks you to identify which data analytics practice involves preserving a data subject’s information and activity any time a data transaction occurs.
+Ans:
+Data privacy

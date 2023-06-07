@@ -1,0 +1,43 @@
+*Weekly challenge 4*
+
+Question 1:
+A data analytics team labels its files to indicate their content, creation date, and version number. The team is using what data organization tool?
+Ans:
+File-naming conventions 
+
+Question 2:
+A data analytics team uses data about data to indicate consistent naming conventions for a project. What type of data is involved in this scenario?
+Ans:
+Metadata
+
+Question 3:
+A data analyst is working with a file from a customer satisfaction survey. 
+The survey was sent to anyone who became a customer between April and June, 2020. Which of the following is an effective name for the file?
+Ans:
+NewCustomerSurvey_2020-6-20_V03
+
+Question 4:
+What process do data analysts use to keep project-related files together and organize them into subfolders?
+Ans:
+Foldering 
+
+Question 5:
+Data analysts use archiving to separate current from past work. What does this process involve?
+Ans:
+Moving files from completed projects to another location
+
+Question 6:
+Fill in the blank: Data analysts create _____ to structure their folders.
+Ans:
+hierarchies
+
+Question 7:
+A data analyst adds sharing permissions to limit who can edit the data contained within a file. This is an example of what?
+Ans:
+Data security
+
+Question 8:
+To reduce clutter, a data analyst hides cells that contain long, complex formulas. 
+To view the formulas again, the analyst will need to adjust the spreadsheet sharing or encryption settings.
+Ans:
+False

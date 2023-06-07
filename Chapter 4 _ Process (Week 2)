@@ -1,0 +1,60 @@
+*Weekly challenge 2*
+
+Question 1:
+Fill in the blank: Conditional formatting is a spreadsheet tool that changes how _____ appear when values meet a specific condition. 
+Ans:
+cells
+
+Question 2:
+A delimiter is a character that indicates the beginning or end of a data item. 
+The split text to columns tool uses a delimiter to accomplish what task?
+Ans:
+To specify where to split a text string
+
+Question 3:
+Fill in the blank: When describing a SUM function, the _____ is =SUM(value 1 through value 2).
+Ans:
+syntax
+
+Question 4:
+You are working with the following selection of a spreadsheet:
+               A                        B
+ 1             Customer                 Address
+ 2             Sally Stewart            9912 School St. North Wales, PA 19454
+ 3             Lorenzo Price            8621 Glendale Dr. Burlington, MA 01803
+ 4             Stella Moss              372 W. Addison Street Brandon, FL 33510
+ 5             Paul Casey               9069 E. Brickyard Road Chattanooga, TN 37421
+ In order to extract the five-digit postal code from Brandon, FL, what is the correct function? 
+ Ans:
+ =RIGHT(B4,5)
+ 
+Question 5:
+A data analyst in a human resources department is working with the following selection of a spreadsheet:
+                A                   B                     C                     D
+1               Year Hired          Last 4 of SS#         Department            Employee ID
+2               2019                1192                  Marketing
+3               2014                2683                  Operations
+4               2020                1939                  Strategy
+5               2009                3208                  Graphics
+They  want to create employee identification numbers (IDs) in column D. 
+The IDs should include the year hired plus the last four digits of the employee’s Social Security Number (SS#). 
+What function will create the ID 20142683 for the employee in row 3?
+Ans:
+=CONCATENATE(A3,B3)
+
+Question 6:
+An analyst is working on a project involving customers from Bogota, Colombia. 
+They receive a spreadsheet with 5,000 rows of customer information. 
+What function can they use to confirm that the column for City contains the word Bogota exactly 5,000 times? 
+Ans:
+COUNTIF
+
+Question 7:
+The V in VLOOKUP stands for what?
+Ans:
+Vertical
+
+Question 8:
+To evaluate how well two or more data sources work together, data analysts use data mapping. 
+Ans:
+True

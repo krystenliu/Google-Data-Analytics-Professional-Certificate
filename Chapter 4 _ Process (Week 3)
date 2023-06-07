@@ -1,0 +1,100 @@
+*Weekly challenge 3*
+
+Question 1:
+Data analysts choose SQL for which of the following reasons? Select all that apply. 
+Ans:
+SQL is a well-known standard in the professional community
+SQL can handle huge amounts of data 
+
+Question 2:
+In which of the following situations would a data analyst use spreadsheets instead of SQL? Select all that apply. 
+Ans:
+When working with a small dataset
+When visually inspecting data 
+
+Question 3:
+A data analyst runs a SQL query to extract some data from a database for further analysis. 
+How can the analyst save the data? Select all that apply. 
+Ans:
+Create a new table for the data.
+Download the data as a spreadsheet. 
+
+Question 4:
+You are working with a database table that contains invoice data. 
+The table includes columns for invoice_id and billing_state. 
+You want to remove duplicate entries for billing state and sort the results by invoice ID. 
+
+You write the SQL query below. 
+Add a DISTINCT clause that will remove duplicate entries from the billing_state column. 
+
+NOTE: The three dots (...) indicate where to add the clause.
+
+1   SELECT DISTINCT billing_state
+2   FROM
+3   invoice
+4   ORDER BY
+5   invoice_id
+
+What billing state appears in row 17 of your query result?
+Ans:
+AZ
+
+Question 5:
+You are working with a database table that contains customer data. 
+The table includes columns about customer location such as city, state, country, and postal_code. 
+You want to check for postal codes that are greater than 7 characters long. 
+
+You write the SQL query below. Add a LENGTH function that will return any postal codes that are greater than 7 characters long.
+
+1   SELECT 
+2   last_name
+3   FROM
+4   customer
+5   WHERE
+6   LENGTH(postal_code)>7
+
+What is the last name of the customer that appears in row 10 of your query result?
+Ans:
+Hughes 
+
+Question 6:
+A data analyst is cleaning transportation data for a ride-share company. 
+The analyst converts the data on ride duration from text strings to floats. 
+What does this scenario describe? 
+Ans:
+Typecasting 
+
+Question 7:
+A data analyst is working with product sales data. They import new data into a database. 
+The database recognizes the data for product price as text strings. 
+What SQL function can the analyst use to convert text strings to floats? 
+Ans:
+CAST
+
+Question 8:
+Fill in the blank: The _____ function can be used to return non-null values in a list.
+Ans:
+COALESCE
+
+Question 9:
+You are working with a database table that contains invoice data. 
+The table includes columns about billing location such as billing_city, billing_state, and billing_country. 
+You want to retrieve the first 4 letters of each city name. 
+You decide to use the SUBSTR function to retrieve the first 4 letters of each city name, and use the AS command to store the result in a new column called new_city. 
+
+You write the SQL query below. 
+Add a statement to your SQL query that will retrieve the first 4 letters of each city name and store the result in a new column as new_city. 
+
+NOTE: The three dots (...) indicate where to add the statement.
+
+1   SELECT
+2   invoice_id,
+3   SUBSTR(billing_city,1,4) AS new_city
+4   FROM
+5   invoice
+6   ORDER BY
+7   billing_city
+
+What invoice ID number appears in row 7 of your query result? 
+Ans:
+390

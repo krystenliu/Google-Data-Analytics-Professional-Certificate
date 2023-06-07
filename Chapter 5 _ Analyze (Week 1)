@@ -1,0 +1,70 @@
+*Weekly challenge 1*
+
+Question 1:
+What is the goal of the analysis phase of the data analysis process?
+Ans:
+To identify trends and relationships in data
+
+Question 2:
+During which of the four phases of analysis can you find a correlation between two variables?
+Ans:
+Transform data
+
+Question 3:
+Which of the following actions might occur when transforming data? Select all that apply.
+Ans:
+Identify a pattern in your data
+Recognize relationships in your data
+Make calculations based on your data
+
+Question 4:
+Fill in the blank: Filtering involves showing only the data that meets a specific _____ while hiding the rest.
+Ans:
+criteria
+
+Question 5:
+A data analyst is sorting spreadsheet data. 
+They want to make sure that, when they rearrange the data, data across rows is kept together. 
+What technique should they use to sort the data?
+Ans:
+Sort Sheet
+
+Question 6:
+A data analyst sorts a spreadsheet range between cells F19 and G82. 
+They sort in ascending order by the second column, Column G. What is the syntax they are using?
+Ans:
+=SORT(F19:G82, 2, TRUE)
+
+Question 7:
+You are querying a database that contains data about music. 
+Each musical genre is given an ID number. You are only interested in data related to the genre with ID number 7. 
+The genre IDs are listed in the genre_id column. 
+
+You write the SQL query below. Add a WHERE clause that will return only data about the genre with Id number 7.
+
+1   SELECT
+2   *
+3   FROM
+4   track
+
+Who is the composer listed in row 4 of your query result?
+Ans:
+Caetano Veloso
+
+Question 8:
+You are working with a database that contains invoice data about online music purchases. 
+You are only interested in invoices sent to customers located in the city of Delhi. 
+You want to sort the invoices by order total in ascending order. The order totals are listed in the total column. 
+
+You write the SQL query below. Add an ORDER BY clause that will sort the invoices by order total in ascending order.
+
+1   SELECT
+2   *
+3   FROM
+4   invoice
+5   WHERE
+6   billing_city = "Delhi"
+
+What total appears in row 4 of your query result?
+Ans:
+3.96
